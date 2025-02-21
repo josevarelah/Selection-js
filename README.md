@@ -73,6 +73,11 @@ We welcome contributions! Follow these steps:
    ```
 3. Make updates to documentation or code
 4. Commit and Push Changes
+  ```sh
+   git add .
+   git commit -m "Your Message"
+   git push origin your-branch-name
+  ```
 5. Open a Pull Request on GitHub.
 
 ## 📜 License
